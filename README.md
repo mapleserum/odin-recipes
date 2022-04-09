@@ -1,6 +1,6 @@
 An exercise demonstrating previous knowledge obtained via TOP
 
-I am not possiive what I will have to make so far as I am just starting 
+I am not positive what I will have to make so far as I am just starting 
 the project. I have this far been required to create a repository on
 GitHub and clone it through the CLI.
 
